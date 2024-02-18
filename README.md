@@ -40,6 +40,16 @@ I am now eager to transition into this field, specifically aiming to join a Secu
         <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
     </a>
 </div>
+<div>
+    <a href="https://aws.amazon.com/certification/">
+        <img src="https://img.shields.io/badge/-Amazon_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+    </a>
+</div>
+<div>
+    <a href="https://www.comptia.org/certifications/security">
+        <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+    </a>
+</div>
 
 
 ## Projects
